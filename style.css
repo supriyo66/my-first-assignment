@@ -1,0 +1,187 @@
+header{
+    background-color: rgba(229, 84, 115, 0.10);
+    
+}
+.banner{
+
+    margin: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+    
+    
+}
+.banner-photo{
+    margin-left: 60px;
+    margin-top: 20px;
+
+}
+.btn{
+    padding: 10px;
+    background-color: #E55473;
+    border: none;
+    border-radius: 2px;
+}
+.featured{
+    text-align: center;
+
+}
+.featured-text{
+    font-size: smaller;
+}
+.image-container{
+    display: flex;
+    width: 170px;
+    height: 200px;
+    margin-left: 380px;
+    padding: 10px;
+    
+    
+    
+}
+.image-1{
+    border: 2px solid white;
+    border-radius: 300px 300px 0px 0px;
+    padding: 10px;
+    background-color:rgba(167, 33, 98, 0.15);
+    margin: 10px;
+    
+}
+.image-2{
+    border: 2px solid white;
+    border-radius: 300px 300px 0px 0px;
+    padding: 10px;
+    background-color: rgba(5, 151, 160, 0.15);
+    margin: 10px;
+    
+}
+.image-3{
+    border: 2px solid white;
+    border-radius: 300px 300px 0px 0px;
+    padding: 20px;
+    background-color: rgba(71, 125, 17, 0.15);
+    margin: 10px;
+    
+    
+}
+.hot-offer{
+    display: flex;
+    align-items: center;
+     margin: 30px 50px 30px 50px;
+    justify-content: space-around;
+    background-color: rgba(229, 84, 115, 0.05);
+}
+.offer-head{
+    margin: 30px;
+    
+}
+.offer-content{
+    margin-left: 130px;
+}
+.offer-text{
+    font-size: smaller;
+    margin-top: 2px;
+}
+.btn-2{
+    margin-left: 100px;
+    padding: 10px;
+    background-color: #E55473;
+    border: none;
+    border-radius: 2px;
+}
+.image-4{
+    width: 200px;
+    height:220px ;
+    margin-right: 200px;
+}
+.insta{
+    text-align: center;
+}
+.insta-text{
+    font-size: smaller;
+}
+.insta-photo{
+    display: flex;
+    width: 230px;
+    height: 210px;
+    margin-left: 270px;
+    
+    
+  
+}
+.insta-image-s{
+    margin: 10px;
+}
+.latest-offer{
+    text-align: center;
+    
+    margin-top: 100px;
+    margin-bottom: 50px;
+   
+}
+.get-offer{
+    background-image: url(Rectangle\ 9.png);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+
+.footer-start{
+    background-color: black;
+    margin-top: 30px;
+    
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+.color{
+    color: #E55473;
+}
+.footer-text{
+   
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+.footer-end{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+
+}
+.btn-s{
+    background-color: #E55473;
+    border: none;
+    border-radius: 2px;
+    padding: 2px;margin: 2px;
+     
+}
+.online-slip{
+    text-align: center;
+    background-color: antiquewhite;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 2px solid white;S
+    border-radius: 5px;
+    
+}
+.order-head{
+    font-size: larger;
+    color: black;
+}
+.order-option{
+    color: darkgray;
+}
+
+
+    
